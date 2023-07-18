@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanju5445
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Machine Learning & python Django
+- 🌱 I’m currently learning Machine Learning & DotNet Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
